@@ -28,7 +28,7 @@ function About(props) {
                             <p>Looking for my next challenge as a Developer and to never stop learning.</p>
                         </div>
                         <div className='about-img'>
-                            <img src={Ignacio} id='chef' />
+                            <img src={Ignacio} id='chef' alt='image' />
                         </div>
                     </div>
                 </div>
